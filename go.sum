@@ -4,3 +4,5 @@ github.com/prasetyodidi/go-say-hello v1.1.0 h1:FypF+t3EqLh5PgEcubVwZIVeyd02V4IKD
 github.com/prasetyodidi/go-say-hello v1.1.0/go.mod h1:k3a+oHVho1ThXrPPxyhe9sV0+DOLW0zCbDb0GWsc7pQ=
 github.com/prasetyodidi/go-say-hello v1.5.0 h1:QWtRf5PMjrjpZEhcZXTftaIp2Afdvv6gTc/JOgtZnO4=
 github.com/prasetyodidi/go-say-hello v1.5.0/go.mod h1:k3a+oHVho1ThXrPPxyhe9sV0+DOLW0zCbDb0GWsc7pQ=
+github.com/prasetyodidi/go-say-hello/v2 v2.0.0 h1:4gqkduafbxCF0fE0pKbKIHvWnKbm1aNy4xBJ4a9/oyU=
+github.com/prasetyodidi/go-say-hello/v2 v2.0.0/go.mod h1:GOhfiled80D8shwrcburMsfWeA7scEVADoIjbMsoLqY=
